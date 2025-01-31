@@ -83,10 +83,10 @@ footer {
 }
 
 nav img {
-  height: 80px;
+  height: 100px;
 }
 
-.btn {
+#btn {
   background-color: rgb(10, 10, 10);
   color: white;
 }
@@ -99,8 +99,9 @@ nav img {
 }
 
 #projects {
-  background-color: #070707;
-  color: rgb(247, 245, 245);
+  background-color: #fff;
+  color: rgb(15, 15, 15);
+  padding: 100px 0;
 }
 
 #contact {
